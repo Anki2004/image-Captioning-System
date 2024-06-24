@@ -1,0 +1,6 @@
+tensorflow
+flask
+streamlit
+pillow
+requests
+numpy
